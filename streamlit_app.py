@@ -7,3 +7,5 @@ with st.container():
     st.title('Welcome to the Energy Market!')
     st.header("Let's predict DayAhead Prices of European Power Exchange")
 
+
+st.title("MAHLZEIT")
