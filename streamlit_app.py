@@ -11,4 +11,4 @@ with st.container():
 st.title("MAHLZEIT")
 
 st.title("TEST MAHLZEIT")
-st.title("100")
+st.title("1000000")
